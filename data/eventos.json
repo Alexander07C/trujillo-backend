@@ -1,0 +1,32 @@
+[
+  {
+    "titulo": "Concurso Nacional de Marinera",
+    "descripcion": "El evento de danza más importante del Perú, reuniendo a cientos de parejas de todo el país.",
+    "lugar": "Coliseo Gran Chimú",
+    "fecha": "2026-01-15",
+    "categoria": "danza",
+    "tipo": "tradicional",
+    "esGratuito": false,
+    "precio": 25.0
+  },
+  {
+    "titulo": "Festival Internacional de la Primavera",
+    "descripcion": "El evento cultural más grande de Trujillo, con corso primaveral, desfiles y elección de reinas.",
+    "lugar": "Toda la ciudad",
+    "fecha": "2026-09-20",
+    "categoria": "cultural",
+    "tipo": "tradicional",
+    "esGratuito": true,
+    "precio": 0.0
+  },
+  {
+    "titulo": "Trujillo: Juventud y Raíces",
+    "descripcion": "Festival con más de 20 agrupaciones culturales y danzas de diferentes regiones del Perú.",
+    "lugar": "Coliseo Inca",
+    "fecha": "2026-02-13",
+    "categoria": "cultural",
+    "tipo": "municipal",
+    "esGratuito": true,
+    "precio": 0.0
+  }
+]
