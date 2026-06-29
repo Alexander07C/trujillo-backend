@@ -1,18 +1,38 @@
 [
   {
-    "titulo": "Concurso Nacional de Marinera",
-    "descripcion": "El evento de danza más importante del Perú, reuniendo a cientos de parejas de todo el país.",
-    "lugar": "Coliseo Gran Chimú",
-    "fecha": "2026-01-15",
-    "categoria": "danza",
+    "titulo": "II Feria de Remates y Feria Gastronómica",
+    "descripcion": "Stands de productores locales con precios de remate y huariques con lo mejor de la comida trujillana.",
+    "lugar": "Explanada del Complejo Mansiche",
+    "fecha": "2026-06-26",
+    "categoria": "gastronomia",
+    "tipo": "municipal",
+    "esGratuito": true,
+    "precio": 0.0
+  },
+  {
+    "titulo": "Festividad de San Pedro y San Pablo",
+    "descripcion": "Procesión del santo a bordo de los caballitos de totora gigantes en el mar de Huanchaco y Salaverry.",
+    "lugar": "Playa de Huanchaco y Puerto de Salaverry",
+    "fecha": "2026-06-28",
+    "categoria": "religioso",
     "tipo": "tradicional",
-    "esGratuito": false,
-    "precio": 25.0
+    "esGratuito": true,
+    "precio": 0.0
+  },
+  {
+    "titulo": "Festival de la Danza y Tradición Moche",
+    "descripcion": "Celebración de Fiestas Patrias con ferias gastronómicas, danzas típicas norteñas y pasacalles tradicionales.",
+    "lugar": "Plaza de Armas de Moche",
+    "fecha": "2026-07-25",
+    "categoria": "danza",
+    "tipo": "municipal",
+    "esGratuito": true,
+    "precio": 0.0
   },
   {
     "titulo": "Festival Internacional de la Primavera",
-    "descripcion": "El evento cultural más grande de Trujillo, con corso primaveral, desfiles y elección de reinas.",
-    "lugar": "Toda la ciudad",
+    "descripcion": "El evento primaveral más grande del Perú con corso, carros alegóricos y reinas internacionales.",
+    "lugar": "Centro Histórico y Av. España",
     "fecha": "2026-09-20",
     "categoria": "cultural",
     "tipo": "tradicional",
@@ -20,13 +40,93 @@
     "precio": 0.0
   },
   {
-    "titulo": "Trujillo: Juventud y Raíces",
-    "descripcion": "Festival con más de 20 agrupaciones culturales y danzas de diferentes regiones del Perú.",
-    "lugar": "Coliseo Inca",
-    "fecha": "2026-02-13",
+    "titulo": "Feria del Libro de Trujillo",
+    "descripcion": "Punto de encuentro literario en el norte del país con escritores, editoriales y talleres infantiles.",
+    "lugar": "Plazuela El Recreo",
+    "fecha": "2026-11-01",
+    "categoria": "cultural",
+    "tipo": "especial",
+    "esGratuito": true,
+    "precio": 0.0
+  },
+  {
+    "titulo": "Semana Jubilar por la Independencia de Trujillo",
+    "descripcion": "Conmemoración del grito de libertad de 1820 con conciertos, desfiles y ferias culturales.",
+    "lugar": "Plaza de Armas y Teatro Municipal",
+    "fecha": "2026-12-24",
     "categoria": "cultural",
     "tipo": "municipal",
     "esGratuito": true,
     "precio": 0.0
+  },
+  {
+    "titulo": "Festival de Luces y Colores",
+    "descripcion": "Exhibición de árboles navideños mecánicos, luces rítmicas y coros de villancicos en vivo.",
+    "lugar": "Plaza de Armas de Trujillo",
+    "fecha": "2026-12-15",
+    "categoria": "cultural",
+    "tipo": "municipal",
+    "esGratuito": true,
+    "precio": 0.0
+  },
+  {
+    "titulo": "Concurso Nacional de Marinera",
+    "descripcion": "El festival folclórico de danza competitiva más prestigioso del país con las mejores parejas del mundo.",
+    "lugar": "Coliseo Gran Chimú",
+    "fecha": "2027-01-18",
+    "categoria": "danza",
+    "tipo": "tradicional",
+    "esGratuito": false,
+    "precio": 30.0
+  },
+  {
+    "titulo": "Festividad de San Valentín, Patrón de Trujillo",
+    "descripcion": "Conmemoración religiosa del terremoto de 1619 y honores a San Valentín como protector de la ciudad.",
+    "lugar": "Catedral de Trujillo",
+    "fecha": "2027-02-14",
+    "categoria": "religioso",
+    "tipo": "tradicional",
+    "esGratuito": true,
+    "precio": 0.0
+  },
+  {
+    "titulo": "Aniversario de Fundación de Trujillo",
+    "descripcion": "Pasacalles escolares, retretas de bandas de músicos y exposiciones artísticas en casonas coloniales.",
+    "lugar": "Plaza de Armas de Trujillo",
+    "fecha": "2027-03-01",
+    "categoria": "cultural",
+    "tipo": "municipal",
+    "esGratuito": true,
+    "precio": 0.0
+  },
+  {
+    "titulo": "Semana Santa Tradicional de Moche y Trujillo",
+    "descripcion": "Procesiones y escenificaciones donde las tradiciones ancestrales muchik se mezclan con el catolicismo.",
+    "lugar": "Plaza de Armas de Moche",
+    "fecha": "2027-03-21",
+    "categoria": "religioso",
+    "tipo": "tradicional",
+    "esGratuito": true,
+    "precio": 0.0
+  },
+  {
+    "titulo": "Fiesta Patronal de San Isidro Labrador",
+    "descripcion": "Fiesta del santo de los agricultores con los icónicos Diablos de Moche, sus máscaras y danzas.",
+    "lugar": "Campiña de Moche",
+    "fecha": "2027-05-12",
+    "categoria": "religioso",
+    "tipo": "tradicional",
+    "esGratuito": true,
+    "precio": 0.0
+  },
+  {
+    "titulo": "Taller de Cerámica Mochica",
+    "descripcion": "Taller práctico de cerámica inspirado en las técnicas ancestrales de la cultura Moche.",
+    "lugar": "Museo Cassinelli",
+    "fecha": "2026-08-10",
+    "categoria": "arte",
+    "tipo": "especial",
+    "esGratuito": false,
+    "precio": 15.0
   }
 ]

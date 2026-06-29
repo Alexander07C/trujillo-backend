@@ -20,7 +20,6 @@ public class EventoController {
 
     @Autowired
     private EventoService eventoService;
-
     // GET /api/eventos
     @GetMapping
     public List<Evento> listarEventos(
