@@ -138,6 +138,16 @@
     "tipo": "especial",
     "esGratuito": true,
     "precio": 0.0
+  },
+  {
+    "titulo": "Verificación desde el Celular",
+    "descripcion": "Evento de prueba para confirmar que los datos llegan automáticamente al celular sin cable USB.",
+    "lugar": "Centro Histórico de Trujillo",
+    "fecha": "2026-09-05",
+    "categoria": "cultural",
+    "tipo": "especial",
+    "esGratuito": true,
+    "precio": 0.0
   }
 
 ]
