@@ -128,5 +128,16 @@
     "tipo": "especial",
     "esGratuito": false,
     "precio": 15.0
+  },
+  {
+    "titulo": "Prueba CI/CD Automatizada",
+    "descripcion": "Evento de prueba para validar el flujo completo Jenkins-Render-Flutter.",
+    "lugar": "Plaza Mayor de Trujillo",
+    "fecha": "2026-08-15",
+    "categoria": "cultural",
+    "tipo": "especial",
+    "esGratuito": true,
+    "precio": 0.0
   }
+
 ]
